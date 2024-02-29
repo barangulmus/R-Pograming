@@ -16,3 +16,12 @@ Aşağıda verilen her üç atama işlemi de aynı işlem yapılmaktadır.
 y = x + j
 x + a <- j
 ```
+## Print
+Aşağıda verilen her üç atama işlemi de aynı işlem yapılmaktadır.
+
+```R
+st <- "Hello World"
+print(st)
+#output Hello World
+
+```
